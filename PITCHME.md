@@ -22,7 +22,20 @@ Oftmals ist es aber genau dieses Problem:
 
 ---
 
-´´´
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
 Reiners-iMac:~ imac$ touch Pitchme.md
 Reiners-iMac:~ imac$ git init
 xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
