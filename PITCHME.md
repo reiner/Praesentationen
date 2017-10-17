@@ -1,6 +1,6 @@
-# Markdown-Präsentationen schnell und schön
+# Social Media in B2B
 
-An application architecture for React
+Was sind die Unterschiede?
 
 ---
 
