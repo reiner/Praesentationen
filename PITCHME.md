@@ -4,7 +4,6 @@ Was sind die Unterschiede?
 
 ---
 
----?image=assets/intro.png
 +++?image=https://www.reinergaertner.de/austausch/Screen-Shot-2017-10-15-11-12-36-y6oFB1Auj0/
 @title[127.0.0.1]
 
