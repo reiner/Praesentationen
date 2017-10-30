@@ -4,7 +4,7 @@ Was sind die Unterschiede?
 
 ---
 
-+++?image=https://www.reinergaertner.de/austausch/Screen-Shot-2017-10-15-11-12-36-y6oFB1Auj0/
++++?image=https://www.reinergaertner.de/austausch/Screen-Shot-2017-10-15-11-12-36-y6oFB1Auj0/Screen-Shot-2017-10-15-11-12-36.png
 @title[127.0.0.1]
 
 ### Flux Design
