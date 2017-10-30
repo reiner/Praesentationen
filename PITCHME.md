@@ -4,6 +4,8 @@ Was sind die Unterschiede?
 
 ---
 
+---?image=assets/intro.jpg
+
 ### Flux Design
 
 - Dispatcher: Manages Data Flow
