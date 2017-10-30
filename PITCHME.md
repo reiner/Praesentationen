@@ -9,8 +9,6 @@ von Reiner Gärtner, CEO B2BSoMe
 
 ## Schwimmen Sie noch oder ertrinken Sie in Daten?
 
----
-
 ---?image=https://www.reinergaertner.de/austausch/speed.png
 @title[Alles wird schneller]
 
@@ -24,9 +22,29 @@ In **einer Sekunde** werden
 
 ---
 
-## Alles wird mehr, schneller ...
+## Und es wird vernetzter, granularer, komplizierter...
 
 ---
+
+## Gleichzeitig gibt es auch noch die Offline-Welt...
+
+---
+
+Sind bereit für die 
+## Digital Natives?
+
+———
+
+Sind Sie bereit für 
+## Alle Zielgruppen?
+
+---
+
+## In deren bevorzugten Medien?
+
+---
+
+## In den 
 
 ## Und auch noch granularer.
 
