@@ -4,7 +4,7 @@ Was sind die Unterschiede?
 
 ---
 
----?image=assets/intro.jpg
+---?image=assets/intro.png
 
 ### Flux Design
 
