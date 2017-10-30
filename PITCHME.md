@@ -4,7 +4,7 @@ Ein schneller Einstieg
 
 von Reiner Gärtner, CEO B2BSoMe
 
----?image=https://www.reinergaertner.de/austausch/into.png
+---?image=https://www.reinergaertner.de/austausch/intro.png
 @title[Are you swimming or are you already drowning?]
 
 ### Flux Design
