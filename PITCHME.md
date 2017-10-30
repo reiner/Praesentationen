@@ -20,11 +20,14 @@ In **einer Sekunde** werden
 
 ---
 
-## Und es wird vernetzter, granularer, komplizierter...
+Und es wird 
+- vernetzter
+- granularer
+- **komplizierter...**
 
 ---
 
-## Gleichzeitig gibt es auch noch die Offline-Welt...
+Ein Kampf gegen Windmühlen?
 
 ---
 
