@@ -49,24 +49,6 @@ Sind Sie bereit für
 
 ---
 
-## In den 
-
-## Und auch noch granularer.
-
-1. Irgendwas
-2. noch was
-3. ein code
-
-+++
-
-hier geht es nach unten
-
-+++
-
-und hier noch mehr
-
----
-
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
