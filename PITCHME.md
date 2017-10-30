@@ -8,6 +8,8 @@ Ein schneller Einstieg
 
 ## Schwimmen Sie noch oder ertrinken Sie in Daten?
 
+Da fühlt man sich schnell überfordert...
+
 ---
 
 ## Alles läuft schneller
