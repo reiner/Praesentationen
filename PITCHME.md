@@ -5,15 +5,30 @@ Ein schneller Einstieg
 von Reiner Gärtner, CEO B2BSoMe
 
 ---?image=https://www.reinergaertner.de/austausch/intro.png
-@title[Are you swimming or are you already drowning?]
+@title[Gehen Sie schon unter vor so vielen Informationen?]
 
 ## Schwimmen Sie noch oder ertrinken Sie in Daten?
 
 ---
 
-Oftmals ist es aber genau dieses Problem:
+---?image=https://www.reinergaertner.de/austausch/speed.png
+@title[Alles wird schneller]
+
+## Alles läuft schneller
+
+In **einer Sekunde** werden
+
+- 2.608 E-Mails verschickt,
+- 7,894 Tweets veröffentlicht,
+- 46,78 GB Internet-Daten transportiert.
 
 ---
+
+## Alles wird mehr, schneller ...
+
+---
+
+## Und auch noch granularer.
 
 1. Irgendwas
 2. noch was
