@@ -7,11 +7,7 @@ von Reiner Gärtner, CEO B2BSoMe
 ---?image=https://www.reinergaertner.de/austausch/intro.png
 @title[Are you swimming or are you already drowning?]
 
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+## Schwimmen Sie noch oder ertrinken Sie in Daten?
 
 ---
 
