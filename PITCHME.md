@@ -49,20 +49,4 @@ Sind Sie bereit für
 
 ---
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
 
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
