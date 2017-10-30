@@ -1,10 +1,8 @@
 # Social Media in B2B
 
-Was sind die Unterschiede?
+Ein schneller Einstieg
 
----
-
-+++?image=https://www.reinergaertner.de/austausch/Screen-Shot-2017-10-15-11-12-36-y6oFB1Auj0/Screen-Shot-2017-10-15-11-12-36.png
+---?image=https://www.reinergaertner.de/austausch/Screen-Shot-2017-10-15-11-12-36-y6oFB1Auj0/Screen-Shot-2017-10-15-11-12-36.png
 @title[127.0.0.1]
 
 ### Flux Design
