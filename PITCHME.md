@@ -9,8 +9,7 @@ von Reiner Gärtner, CEO B2BSoMe
 
 ## Schwimmen Sie noch oder ertrinken Sie in Daten?
 
----?image=https://www.reinergaertner.de/austausch/speed.png
-@title[Alles wird schneller]
+———
 
 ## Alles läuft schneller
 
@@ -33,7 +32,7 @@ In **einer Sekunde** werden
 Sind bereit für die 
 ## Digital Natives?
 
-———
+---
 
 Sind Sie bereit für 
 ## Alle Zielgruppen?
