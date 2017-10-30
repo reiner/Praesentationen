@@ -31,8 +31,10 @@ Ein Kampf gegen Windmühlen?
 
 ---
 
-Sind bereit für die 
+Sind Sie bereit für die 
 ## Digital Natives?
+
++++
 
 ![Video](https://player.vimeo.com/video/237698340)
 
