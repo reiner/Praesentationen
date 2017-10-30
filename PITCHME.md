@@ -4,6 +4,8 @@ Ein schneller Einstieg
 
 von Reiner Gärtner, CEO B2BSoMe
 
+---
+
 ---?image=https://www.reinergaertner.de/austausch/intro.png
 @title[Gehen Sie schon unter vor so vielen Informationen?]
 
